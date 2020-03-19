@@ -1,3 +1,5 @@
+✅ Accepted
+
 **Title**
 
 _Publicly viewable title. Ideally catchy, interesting, essence of the talk. Limited to 60 characters._
