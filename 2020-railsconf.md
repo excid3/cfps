@@ -61,3 +61,6 @@ A rough outline for the talk is:
 ActionText is a core feature of Rails that launched without much fanfare and I want to give this talk to bring more attention to it. I'd venture to guess 80% or more of Rails devs have wanted to implement a nice, rich text field in their applications and don't realize they can now do this with a core Rails feature.
 
 I'd say I'm uniquely qualified to give this talk because I spent several weeks after ActionText was released learning how it works and talking with George on the Rails core team to learn how to implement custom attachments. I have covered it in a screencast and left notes in the GitHub issues to help anyone interested in using ActionText more. I also added the rich_text field generator to the Rails scaffold generator to make it easier to use this feature and plan on contributing these notes to the Rails guides.
+
+**Bio**
+Chris is the founder of GoRails, host of the Remote Ruby podcast, and creator of Jumpstart and Hatchbox.io. He loves building tools to make developers' lives easier and helping people learn to code.
